@@ -1,0 +1,335 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "game": "Monster Hunter: World",
+      "category": "Monstres",
+      "difficulty": "Facile",
+      "question": {
+        "fr": "Quel monstre est surnommé le 'Roi des Cieux' ?",
+        "en": "Which monster is nicknamed the 'King of the Skies'?"
+      },
+      "answers": [
+        {
+          "text": {"fr": "Rathalos", "en": "Rathalos"},
+          "isCorrect": true
+        },
+        {
+          "text": {"fr": "Diablos", "en": "Diablos"},
+          "isCorrect": false
+        },
+        {
+          "text": {"fr": "Kushala Daora", "en": "Kushala Daora"},
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "fr": "Rathalos est un monstre emblématique de la série Monster Hunter, reconnaissable à ses ailes imposantes et son cri perçant.",
+        "en": "Rathalos is an iconic monster in the Monster Hunter series, recognizable by its large wings and piercing cry."
+      },
+      "source": {
+        "url": "https://www.monsterhunter.com/world/fr/",
+        "text": {"fr": "Site officiel Monster Hunter World", "en": "Official Monster Hunter World Website"}
+      }
+    },
+    {
+      "id": 2,
+      "game": "Monster Hunter: World",
+      "category": "Monstres",
+      "difficulty": "Facile",
+      "question": {
+        "fr": "Quel monstre crache du feu et a une queue en massue ?",
+        "en": "Which monster spits fire and has a club-like tail?"
+      },
+      "answers": [
+        {
+          "text": {"fr": "Teostra", "en": "Teostra"},
+          "isCorrect": true
+        },
+        {
+          "text": {"fr": "Kushala Daora", "en": "Kushala Daora"},
+          "isCorrect": false
+        },
+        {
+          "text": {"fr": "Bazelgeuse", "en": "Bazelgeuse"},
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "fr": "Teostra est un monstre de feu qui utilise des attaques pyro pour affaiblir ses adversaires.",
+        "en": "Teostra is a fire monster that uses pyro attacks to weaken its opponents."
+      },
+      "source": {
+        "url": "https://www.monsterhunter.com/world/fr/",
+        "text": {"fr": "Site officiel Monster Hunter World", "en": "Official Monster Hunter World Website"}
+      }
+    },
+    {
+      "id": 3,
+      "game": "Monster Hunter Rise",
+      "category": "Monstres",
+      "difficulty": "Facile",
+      "question": {
+        "fr": "Quel monstre ressemble à un loup et utilise des attaques électriques ?",
+        "en": "Which monster resembles a wolf and uses electric attacks?"
+      },
+      "answers": [
+        {
+          "text": {"fr": "Magnamalo", "en": "Magnamalo"},
+          "isCorrect": true
+        },
+        {
+          "text": {"fr": "Great Izuchi", "en": "Great Izuchi"},
+          "isCorrect": false
+        },
+        {
+          "text": {"fr": "Somnacanth", "en": "Somnacanth"},
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "fr": "Magnamalo est un monstre électrique introduit dans Monster Hunter Rise, connu pour ses attaques rapides et son apparence de loup.",
+        "en": "Magnamalo is an electric monster introduced in Monster Hunter Rise, known for its fast attacks and wolf-like appearance."
+      },
+      "source": {
+        "url": "https://www.monsterhunter.com/rise/fr/",
+        "text": {"fr": "Site officiel Monster Hunter Rise", "en": "Official Monster Hunter Rise Website"}
+      }
+    },
+    {
+      "id": 4,
+      "game": "Monster Hunter Generations Ultimate",
+      "category": "Monstres",
+      "difficulty": "Facile",
+      "question": {
+        "fr": "Quel monstre a une armure naturelle et attaque avec de la glace ?",
+        "en": "Which monster has natural armor and attacks with ice?"
+      },
+      "answers": [
+        {
+          "text": {"fr": "Glavenus", "en": "Glavenus"},
+          "isCorrect": true
+        },
+        {
+          "text": {"fr": "Brachydios", "en": "Brachydios"},
+          "isCorrect": false
+        },
+        {
+          "text": {"fr": "Tobi-Kadachi", "en": "Tobi-Kadachi"},
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "fr": "Glavenus est un monstre glacé qui utilise une épée naturelle pour ses attaques et crache de la glace.",
+        "en": "Glavenus is an ice monster that uses a natural sword for its attacks and spits ice."
+      },
+      "source": {
+        "url": "https://www.monsterhunter.com/generations-ultimate/fr/",
+        "text": {"fr": "Site officiel Monster Hunter Generations Ultimate", "en": "Official Monster Hunter Generations Ultimate Website"}
+      }
+    },
+    {
+      "id": 5,
+      "game": "Monster Hunter: World",
+      "category": "Armes",
+      "difficulty": "Facile",
+      "question": {
+        "fr": "Quelle arme a une grande portée ?",
+        "en": "Which weapon has a long range?"
+      },
+      "answers": [
+        {
+          "text": {"fr": "Lance", "en": "Lance"},
+          "isCorrect": true
+        },
+        {
+          "text": {"fr": "Épée longue", "en": "Long Sword"},
+          "isCorrect": false
+        },
+        {
+          "text": {"fr": "Marteau", "en": "Hammer"},
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "fr": "La Lance est une arme à longue portée idéale pour garder ses distances avec les monstres.",
+        "en": "The Lance is a long-range weapon perfect for keeping distance from monsters."
+      },
+      "source": {
+        "url": "https://www.monsterhunter.com/world/fr/",
+        "text": {"fr": "Site officiel Monster Hunter World", "en": "Official Monster Hunter World Website"}
+      }
+    },
+    {
+      "id": 6,
+      "game": "Monster Hunter Rise",
+      "category": "Armes",
+      "difficulty": "Normal",
+      "question": {
+        "fr": "Quelle arme permet d’esquiver rapidement ?",
+        "en": "Which weapon allows for quick dodges?"
+      },
+      "answers": [
+        {
+          "text": {"fr": "Épée et bouclier", "en": "Sword and Shield"},
+          "isCorrect": true
+        },
+        {
+          "text": {"fr": "Grande épée", "en": "Great Sword"},
+          "isCorrect": false
+        },
+        {
+          "text": {"fr": "Arc", "en": "Bow"},
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "fr": "L’Épée et bouclier est une arme légère qui permet des esquives rapides et des attaques précises.",
+        "en": "The Sword and Shield is a lightweight weapon that allows for quick dodges and precise attacks."
+      },
+      "source": {
+        "url": "https://www.monsterhunter.com/rise/fr/",
+        "text": {"fr": "Site officiel Monster Hunter Rise", "en": "Official Monster Hunter Rise Website"}
+      }
+    },
+    {
+      "id": 7,
+      "game": "Monster Hunter: World",
+      "category": "Gameplay",
+      "difficulty": "Normal",
+      "question": {
+        "fr": "Quel objet soigne rapidement ?",
+        "en": "Which item heals quickly?"
+      }
+    ,
+      "answers": [
+        {
+          "text": {"fr": "Potion", "en": "Potion"},
+          "isCorrect": true
+        },
+        {
+          "text": {"fr": "Mega Potion", "en": "Mega Potion"},
+          "isCorrect": false
+        },
+        {
+          "text": {"fr": "Ration", "en": "Ration"},
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "fr": "La Potion est un objet de soin de base qui restaure une quantité modérée de santé.",
+        "en": "The Potion is a basic healing item that restores a moderate amount of health."
+      },
+      "source": {
+        "url": "https://www.monsterhunter.com/world/fr/",
+        "text": {"fr": "Site officiel Monster Hunter World", "en": "Official Monster Hunter World Website"}
+      }
+    },
+    {
+      "id": 8,
+      "game": "Monster Hunter Generations Ultimate",
+      "category": "Lore",
+      "difficulty": "Normal",
+      "question": {
+        "fr": "Quel est le village principal ?",
+        "en": "What is the main village?"
+      },
+      "answers": [
+        {
+          "text": {"fr": "Astera", "en": "Astera"},
+          "isCorrect": true
+        },
+        {
+          "text": {"fr": "Coral Highlands", "en": "Coral Highlands"},
+          "isCorrect": false
+        },
+        {
+          "text": {"fr": "Hoarfrost Reach", "en": "Hoarfrost Reach"},
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "fr": "Astera est le village principal dans Monster Hunter World, où les chasseurs se réunissent pour recevoir des missions.",
+        "en": "Astera is the main village in Monster Hunter World, where hunters gather to receive missions."
+      },
+      "source": {
+        "url": "https://www.monsterhunter.com/world/fr/",
+        "text": {"fr": "Site officiel Monster Hunter World", "en": "Official Monster Hunter World Website"}
+      }
+    },
+    {
+      "id": 9,
+      "game": "Monster Hunter Rise: Sunbreak",
+      "category": "Gameplay",
+      "difficulty": "Normal",
+      "question": {
+        "fr": "Quelle mécanique permet de monter sur les monstres ?",
+        "en": "Which mechanic allows you to mount monsters?"
+      },
+      "answers": [
+        {
+          "text": {"fr": "Dégâts enragés", "en": "Rage Damage"},
+          "isCorrect": false
+        },
+        {
+          "text": {"fr": "Saut vertical", "en": "Vertical Jump"},
+          "isCorrect": false
+        },
+        {
+          "text": {"fr": "Saut vers les monstres", "en": "Mounting"},
+          "isCorrect": true
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "fr": "Le saut vers les monstres (ou 'mounting') permet de s’accrocher à un monstre et de lui infliger des dégâts enragés.",
+        "en": "Mounting monsters allows you to cling to them and deal Rage Damage."
+      },
+      "source": {
+        "url": "https://www.monsterhunter.com/rise-sunbreak/fr/",
+        "text": {"fr": "Site officiel Monster Hunter Rise: Sunbreak", "en": "Official Monster Hunter Rise: Sunbreak Website"}
+      }
+    },
+    {
+      "id": 10,
+      "game": "Monster Hunter: World",
+      "category": "Armes",
+      "difficulty": "Difficile",
+      "question": {
+        "fr": "Quelle arme utilise des phiales pour des dégâts élémentaires ?",
+        "en": "Which weapon uses phials for elemental damage?"
+      },
+      "answers": [
+        {
+          "text": {"fr": "Charge Blade", "en": "Charge Blade"},
+          "isCorrect": true
+        },
+        {
+          "text": {"fr": "Insect Glaive", "en": "Insect Glaive"},
+          "isCorrect": false
+        },
+        {
+          "text": {"fr": "Switch Axe", "en": "Switch Axe"},
+          "isCorrect": false
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "fr": "La Charge Blade est une arme polyvalente qui utilise des phiales pour charger des attaques élémentaires.",
+        "en": "The Charge Blade is a versatile weapon that uses phials to charge elemental attacks."
+      },
+      "source": {
+        "url": "https://www.monsterhunter.com/world/fr/",
+        "text": {"fr": "Site officiel Monster Hunter World", "en": "Official Monster Hunter World Website"}
+      }
+    }
+  ]
+}
